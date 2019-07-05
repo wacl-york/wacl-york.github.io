@@ -6302,4 +6302,8 @@ date,date_end,site,site_name,air_temp,dew_point,no,no2,nox,o3,particle_count,pm1
 2019-06-28T03:00:00Z,2019-06-28T03:59:59Z,wray,Wellington Row Aviva York,12.19,,,,,,,,,,,88.58,18.82,,61.3,0.61
 2019-06-28T04:00:00Z,2019-06-28T04:59:59Z,wray,Wellington Row Aviva York,12.11,,,,,,,,,,,87.93,18.63,,357.8,0.66
 2019-06-28T05:00:00Z,2019-06-28T05:59:59Z,wray,Wellington Row Aviva York,12.33,,,,,,,,,,,86.76,18.68,,15.18,0.58
-2019-06-28T06:00:00Z,2019-06-28T06:59:59Z,wray,Wellington Row Aviva York,12.51,,,,,,,,,,,85.05,19.64,,84.51,0.58
+2019-06-28T06:00:00Z,2019-06-28T06:59:59Z,wray,Wellington Row Aviva York,12.67,,,,,,,,,,,84.3,18.89,,67.44,0.76
+2019-06-28T07:00:00Z,2019-06-28T07:59:59Z,wray,Wellington Row Aviva York,13.11,,,,,,,,,,,83.08,18.6,,69.16,0.7
+2019-06-28T08:00:00Z,2019-06-28T08:59:59Z,wray,Wellington Row Aviva York,13.94,,,,,,,,,,,80.32,18.55,,76.9,0.66
+2019-06-28T09:00:00Z,2019-06-28T09:59:59Z,wray,Wellington Row Aviva York,14.79,,,,,,,,,,,77.5,18.67,,80.63,0.65
+2019-06-28T10:00:00Z,2019-06-28T10:59:59Z,wray,Wellington Row Aviva York,15.43,,,,,,,,,,,75.58,18.51,,80.14,0.92
